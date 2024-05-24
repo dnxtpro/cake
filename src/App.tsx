@@ -1,7 +1,7 @@
 
 import NavBar from './components/navbar'
 import Principal from './components/principal'
-import desser from './assets/dessert-13.svg'
+
 import './App.css'
 import { Entrega } from './components/entrega'
 
