@@ -1,0 +1,15 @@
+#root {
+  max-width: auto;
+  width:auto;
+  margin: 0 auto;
+}
+@font-face {
+  font-family: 'uncut';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/UncutPlan8-Regular.woff2) format('woff2');
+}
+.fuenteperso{
+  font-family:UncutPlan8;
+}
